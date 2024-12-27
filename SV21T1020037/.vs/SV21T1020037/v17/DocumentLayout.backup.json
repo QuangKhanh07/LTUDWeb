@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.web\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|solutionrelative:sv21t1020037.web\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.web\\models\\suppliersearchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|solutionrelative:sv21t1020037.web\\models\\suppliersearchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.web\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|solutionrelative:sv21t1020037.web\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|solutionrelative:sv21t1020037.shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.shop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|solutionrelative:sv21t1020037.shop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|solutionrelative:sv21t1020037.shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.web\\models\\paginationsearchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|solutionrelative:sv21t1020037.web\\models\\paginationsearchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|solutionrelative:sv21t1020037.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.web\\models\\productsearchinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|solutionrelative:sv21t1020037.web\\models\\productsearchinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.web\\models\\categorysearchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|solutionrelative:sv21t1020037.web\\models\\categorysearchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666B5776-3E90-40B7-A7D1-729A2029EC79}|SV21T1020037.BusinessLayer\\SV21T1020037.BusinessLayer.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.businesslayer\\commondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666B5776-3E90-40B7-A7D1-729A2029EC79}|SV21T1020037.BusinessLayer\\SV21T1020037.BusinessLayer.csproj|solutionrelative:sv21t1020037.businesslayer\\commondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.shop\\views\\shared\\_layouttrangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|solutionrelative:sv21t1020037.shop\\views\\shared\\_layouttrangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.shop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|solutionrelative:sv21t1020037.shop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|solutionrelative:sv21t1020037.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.shop\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|solutionrelative:sv21t1020037.shop\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|solutionrelative:sv21t1020037.shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|solutionrelative:sv21t1020037.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F9FEF14-1874-47D3-A445-3D77B3D37EF4}|SV21T1020037.Web\\SV21T1020037.Web.csproj|solutionrelative:sv21t1020037.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|c:\\visualstudiocode2022_ltudweb\\sv21t1020037\\sv21t1020037.shop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBD4CD64-BB36-492E-9F29-D7F01BC34C2B}|SV21T1020037.Shop\\SV21T1020037.Shop.csproj|solutionrelative:sv21t1020037.shop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 217,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SV21T1020037.Shop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SV21T1020037.Shop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:59:45.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\appsettings.json",
+              "RelativeDocumentMoniker": "SV21T1020037.Shop\\appsettings.json",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\appsettings.json",
+              "RelativeToolTip": "SV21T1020037.Shop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T10:01:46.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetailModel.cs",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Models\\OrderDetailModel.cs",
+              "RelativeDocumentMoniker": "SV21T1020037.Web\\Models\\OrderDetailModel.cs",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Models\\OrderDetailModel.cs",
+              "RelativeToolTip": "SV21T1020037.Web\\Models\\OrderDetailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:52:52.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupplierSearchResult.cs",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Models\\SupplierSearchResult.cs",
+              "RelativeDocumentMoniker": "SV21T1020037.Web\\Models\\SupplierSearchResult.cs",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Models\\SupplierSearchResult.cs",
+              "RelativeToolTip": "SV21T1020037.Web\\Models\\SupplierSearchResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:59:26.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SV21T1020037.Web\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "SV21T1020037.Web\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:56:45.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategorySearchResult.cs",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Models\\CategorySearchResult.cs",
+              "RelativeDocumentMoniker": "SV21T1020037.Web\\Models\\CategorySearchResult.cs",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Models\\CategorySearchResult.cs",
+              "RelativeToolTip": "SV21T1020037.Web\\Models\\CategorySearchResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:52:57.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaginationSearchResult.cs",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Models\\PaginationSearchResult.cs",
+              "RelativeDocumentMoniker": "SV21T1020037.Web\\Models\\PaginationSearchResult.cs",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Models\\PaginationSearchResult.cs",
+              "RelativeToolTip": "SV21T1020037.Web\\Models\\PaginationSearchResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:51:36.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SV21T1020037.Shop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SV21T1020037.Shop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:01:10.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductSearchInput.cs",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Models\\ProductSearchInput.cs",
+              "RelativeDocumentMoniker": "SV21T1020037.Web\\Models\\ProductSearchInput.cs",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Models\\ProductSearchInput.cs",
+              "RelativeToolTip": "SV21T1020037.Web\\Models\\ProductSearchInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:51:29.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "SV21T1020037.Web\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "SV21T1020037.Web\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:51:04.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommonDataService.cs",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.BusinessLayer\\CommonDataService.cs",
+              "RelativeDocumentMoniker": "SV21T1020037.BusinessLayer\\CommonDataService.cs",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.BusinessLayer\\CommonDataService.cs",
+              "RelativeToolTip": "SV21T1020037.BusinessLayer\\CommonDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:50:26.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SV21T1020037.Shop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SV21T1020037.Shop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:31:23.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SV21T1020037.Web\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SV21T1020037.Web\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:28:39.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LayoutTrangChu.cshtml",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\Views\\Shared\\_LayoutTrangChu.cshtml",
+              "RelativeDocumentMoniker": "SV21T1020037.Shop\\Views\\Shared\\_LayoutTrangChu.cshtml",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\Views\\Shared\\_LayoutTrangChu.cshtml",
+              "RelativeToolTip": "SV21T1020037.Shop\\Views\\Shared\\_LayoutTrangChu.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAHsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:19:39.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "SV21T1020037.Shop\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "SV21T1020037.Shop\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:24:28.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SV21T1020037.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SV21T1020037.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T08:50:21.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "SV21T1020037.Web\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Web\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "SV21T1020037.Web\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T08:50:33.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SV21T1020037.Shop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SV21T1020037.Shop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T08:54:17.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SV21T1020037.Shop\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\VisualStudioCode2022_LTUDWeb\\SV21T1020037\\SV21T1020037.Shop\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SV21T1020037.Shop\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:01:14.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
